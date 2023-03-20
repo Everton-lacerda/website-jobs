@@ -10,6 +10,7 @@ export default {
     white: "#FFF",
     black: "#020202",
     gray: "#BFBFBF",
+    lightGray: "#F4F4F4",
     success: "#62C114",
     borderSuccess: "#4B9710",
     info: "#38BDF8",
